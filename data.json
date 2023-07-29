@@ -1,0 +1,64 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "300 ML",
+            "harga": "25,000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 ML",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "250 ML",
+            "harga": "23.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "250 ML",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "250 ML",
+            "harga": "23,000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Espresso",
+            "size": "250 ML",
+            "harga": "23.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Es Lemon Mint",
+            "size": "250 ML",
+            "harga": "15.000",
+            "link": "https://id.search.yahoo.com/search;_ylt=Awr1QafNYcNkXb4LXEHLQwx.;_ylc=X1MDMjExNDczMzAwMwRfcgMyBGZyA21jYWZlZQRmcjIDc2ItdG9wBGdwcmlkAzNESU1VNFhIVFhXbC5PSEhmcTVmTUEEbl9yc2x0AzAEbl9zdWdnAzEEb3JpZ2luA2lkLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzEzBHF1ZXJ5A2VzJTIwTEVNT04lMjBNSU5UBHRfc3RtcAMxNjkwNTI3MjM4?p=es+LEMON+MINT&fr2=sb-top&fr=mcafee&type=E210ID714G0"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/17606261/pexels-photo-17606261/free-photo-of-lokakarya-pexels-bh-07-23-kohler-08.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Es tea",
+            "size": "250 ML",
+            "harga": "13.000",
+            "link": "https://id.search.yahoo.com/search;_ylt=Awrx_xQGZsNkmAAMll3LQwx.;_ylc=X1MDMjExNDczMzAwMwRfcgMyBGZyA21jYWZlZQRmcjIDc2ItdG9wBGdwcmlkA204d3EzSE10VDkuQi5BQm84Mi5QR0EEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2lkLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzExBHF1ZXJ5A2VzJTIwVEVBJTIwU09MTwR0X3N0bXADMTY5MDUyNzU3MQ--?p=es+TEA+SOLO&fr2=sb-top&fr=mcafee&type=E210ID714G0"
+        }
+    ]
+}
